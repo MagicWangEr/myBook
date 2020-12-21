@@ -1,0 +1,87 @@
+# keymap
+> Editor Actions
+<!-- → ← ↑ ↓ -->
+- Move Caret to Code Block End (光标移动到代码块末端)
+ ```ctrl ]```
+- Move Caret to Code Block End with Selection
+  ```ctrl shift ]```
+- Move Caret to Code Block Start(光标移动到代码块开头)
+- Move Caret to Code Block Start with Selection
+  ```ctrl shift [```
+- Complete Current Statement
+```ctrl shift enter```
+- Create Rectangular Selection
+- Create Rectangular Selection on Mouse Drag 
+- Cut Line Backward
+- Cut Up to Line End
+- Decrease Font Size
+- Delete Line ```ctrl Y```
+- Delete to Line End
+- Delete to Line Start
+- Delete to Word End ```ctrl Delete```
+- Delete to Word End in Different "CamelHumps" Mode
+- Delete to Word Start ```ctrl backspace```
+- Down with Selection ```shift  ↓```
+- Duplicate Entire Lines
+- Focus Gutter(accessibility) ```alt shift 6 | f```
+- Move Caret to Line Start ```home```
+- Move Caret to Line Start with Selection ```shift home```
+- Move Caret to Matching Brace ```ctrl shift m```
+- Move Caret to Page Bottom ```ctrl PageDown```
+- Move Caret to Page Top ```ctrl PageUp```
+- Move Caret to Next Word ```ctrl  →```
+- Scroll Down(不移动光标) ```ctrl ↓```
+- Join Lines ```ctrl shift J```
+- Scroll to Center ```ctrl m```
+- Split Lines ```ctrl enter```
+- Start New Line ```shift enter```
+- Start New Line Before Current ```ctrl alt enter```
+- Move Caret to Text End ```ctrl end```
+- Move Caret to Text Start ```ctrl home```
+- Toggle Case ```ctrl shift u```
+- Column Selection Mode  ```alt shift insert```
+- Shrink Selection ```ctrl shift w ```
+- Unindent Line or Selection ```shift tab```
+- Prev Parameter ```shift tab```
+- Previous Template Variable ```shift tab```
+- Undo ```ctrl z```
+- Redo ```ctrl shift z```
+- Exend Selection ```ctrl w```
+- Duplicate Line or Selection ```ctrl d```
+- Quick Definition ```ctrl shift i```
+- Quick Documentation ```ctrl q```
+- External Documentation ```shift f1```
+- Parameter Info ```ctrl p```
+- Type info ```ctrl shift p```
+- Context Info ```alt q```
+- Error Description ```ctrl f1```
+- Jump to Source ```f4```
+- Show Source ```ctrl Enter```
+- Recent Files ```ctrl e```
+- Recent Location ```ctrl shift e```
+- Recent Changes ```alt shift c```
+- Quick Switch Scheme ```ctrl ` ```
+- Back ```ctrl alt ←```
+- Forward ```ctrl alt →```
+- Go to Class ```ctrl n```
+- Go to File ```ctrl shift n```
+- Go to Synbol ```ctrl alt shift n```
+- Go to Line/Column ```ctrl g```
+- Next Highlighted Error ```f2```
+- Previous Highlighted Error ```shift f2```
+- Next Emmet Eidt Point ```alt shift ]```
+- Prvious Emmet Eidt Point ```alt shift [```
+- Last Eidt Location ```ctrl shift backspace```
+- Select In ```alt f1```
+- Jump to Navigation Bar ```alt home```
+- Go to Declaration or Usages ```ctrl b```
+- Go to Implementation ```ctrl alt b```
+- Go to Type Declaration ```ctrl shift b```
+- Go to Super Method ```ctrl u```
+- Go to Test ```ctrl shift t```
+- Type Hierarchy ```ctrl h```
+- Previous Occurrence ```ctrl alt ↑```
+- Next Occurrence ```ctrl alt ↓```
+- Override Methods ```ctrl o```
+- Implement Methods ```ctrl i```
+- Extract Methods ```ctrl alt m```
