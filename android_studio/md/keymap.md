@@ -1,10 +1,8 @@
 # keymap
 > Editor Actions
 <!-- → ← ↑ ↓ -->
-- Move Caret to Code Block End (光标移动到代码块末端)
- ```ctrl ]```
-- Move Caret to Code Block End with Selection
-  ```ctrl shift ]```
+- Move Caret to Code Block End ```ctrl ]```
+- Move Caret to Code Block End with Selection```ctrl shift ]```
 - Move Caret to Code Block Start(光标移动到代码块开头)
 - Move Caret to Code Block Start with Selection
   ```ctrl shift [```
